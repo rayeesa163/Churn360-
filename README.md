@@ -94,7 +94,11 @@ jupyter notebook notebooks/01_explore_data.ipynb
 jupyter notebook notebooks/02_model_churn.ipynb
 3️⃣ Open Dashboard
 Tableau → Load Tableau_Dashboard.twbx
+screenshots:
+<img width="913" height="390" alt="image" src="https://github.com/user-attachments/assets/1e360518-940d-457d-951c-ebd134521dc7" />
 
+
+<img width="1311" height="859" alt="image" src="https://github.com/user-attachments/assets/3e505fe4-c49e-454f-8000-54ff459fa290" />
 
 
 📌 Project Impact
