@@ -30,24 +30,7 @@ Probability-based risk scoring for customers
 
 ✅ Actionable Insights: Recommendations for reducing churn.
 
-📂 Project Structure
-bash
-Copy
-Edit
-Customer360/
-│── data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv   # Raw dataset
-│   └── Customer360_with_predictions.csv       # Data with ML predictions
-│
-│── notebooks/
-│   └── 01_explore_data.ipynb                  # Data exploration
-│   └── 02_model_churn.ipynb                   # Churn prediction model
-│
-│── dashboard/
-│   └── Tableau_Dashboard.twbx                 # Tableau Dashboard (interactive)
-│   └── PowerBI_Dashboard.pbix                 # Power BI Dashboard (optional)
-│
-│── README.md                                  # Project documentation
+
 🛠️ Tech Stack
 Data Analysis: Python (Pandas, Numpy, Matplotlib, Seaborn)
 
