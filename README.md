@@ -84,7 +84,7 @@ Provide loyalty benefits for high-value customers
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/Customer360.git
+git clone  https://github.com/rayeesa163/Churn360-
 cd Customer360
 2️⃣ Run Analysis + ML Model
 bash
